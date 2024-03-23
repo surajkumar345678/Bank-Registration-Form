@@ -32,7 +32,8 @@ To use the registration form:
 
 You can see a live demo of the registration form [here](https://surajkumar345678.github.io/Bank-Registration-Form/).
 
-![Demo](demo_screenshot.png)
+![177035097-f7c9fa57-dc44-47ae-8aa2-98bab3764637](https://github.com/surajkumar345678/Bank-Registration-Form/assets/60316890/96588264-9d98-4f77-9553-54ec459c6163)
+
 
 ## Contributing
 
